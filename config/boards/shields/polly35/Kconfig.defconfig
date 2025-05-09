@@ -1,0 +1,6 @@
+if SHIELD_POLLY35
+
+config ZMK_KEYBOARD_NAME
+    default "Polly35"
+
+endif
